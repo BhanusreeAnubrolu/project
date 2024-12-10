@@ -1,0 +1,7 @@
+Hello, this is a sample document.
+It contains text in multiple lines.
+Feel free to edit or replace this content.
+
+Some special characters: ä, é, ñ, ø, ü, ß
+Numbers: 1234567890
+Symbols: !@#$%^&*()_+-={}[]:;<>,.?/
