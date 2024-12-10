@@ -27,6 +27,6 @@ def read_and_parse_document(file_path):
         return None
 
 
-API_KEY = "AIzaSyD0DwkA-nIAh1MANQc6xjgXFql_cXvOwXw"
+API_KEY = "your-api-key"
 doc_data = read_and_parse_document("sample.pdf")
 llm_response(API_KEY,doc_data)
